@@ -1,7 +1,7 @@
 [project]
 name = "clashofclans"
 version = "0.1.0"
-description = "Add your description here"
+description = "Get the COC static data in JSON format."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

@@ -22,7 +22,7 @@ This project automates the process of downloading, decompressing, and converting
 
 1. Install required dependencies:
 	```bash
-	pip install aiohttp zstandard lzham lzma
+	pip install aiohttp zstandard pylzham
     # or
     uv sync
 	```
